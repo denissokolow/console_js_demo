@@ -1,0 +1,19 @@
+{
+ "scripts": {
+  "start": "nodemon"
+},
+  "name": "20200315_203005",
+  "version": "1.0.0",
+  "main": "./src/index.js",
+  "license": "MIT",
+  "repository": "https://github.com/denissokolow/console_js_demo.git",
+  "devDependencies": {
+    "eslint": "^5.16.0 || ^6.8.0",
+    "eslint-config-airbnb": "^18.1.0",
+    "eslint-plugin-import": "^2.20.1",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-react": "^7.19.0",
+    "eslint-plugin-react-hooks": "^2.5.0 || ^1.7.0",
+    "nodemon": "^2.0.2"
+  }
+}
